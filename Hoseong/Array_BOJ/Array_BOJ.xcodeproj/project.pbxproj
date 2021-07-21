@@ -21,6 +21,8 @@
 /* Begin PBXFileReference section */
 		B41E33A926A84911000388D1 /* Array_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Array_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		B41E33AC26A84911000388D1 /* 알파벳 갯수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "알파벳 갯수.swift"; sourceTree = "<group>"; };
+		B46DB18326A85487007BB049 /* Array_BOJ-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Array_BOJ-Bridging-Header.h"; sourceTree = "<group>"; };
+		B46DB18426A85488007BB049 /* 개수 세기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "개수 세기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				B41E33AC26A84911000388D1 /* 알파벳 갯수.swift */,
+				B46DB18426A85488007BB049 /* 개수 세기.swift */,
+				B46DB18326A85487007BB049 /* Array_BOJ-Bridging-Header.h */,
 			);
 			path = Array_BOJ;
 			sourceTree = "<group>";
@@ -89,6 +93,7 @@
 				TargetAttributes = {
 					B41E33A826A84911000388D1 = {
 						CreatedOnToolsVersion = 12.5.1;
+						LastSwiftMigration = 1250;
 					};
 				};
 			};
@@ -239,10 +244,18 @@
 		B41E33B126A84911000388D1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS89TXQ5T;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Array_BOJ/Array_BOJ-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -250,10 +263,17 @@
 		B41E33B226A84911000388D1 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS89TXQ5T;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Array_BOJ/Array_BOJ-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
