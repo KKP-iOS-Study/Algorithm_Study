@@ -19,6 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B41BAFC526A97EB4002FAEAB /* Strfry.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Strfry.swift; sourceTree = "<group>"; };
 		B41E33A926A84911000388D1 /* Array_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Array_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		B41E33AC26A84911000388D1 /* 알파벳 갯수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "알파벳 갯수.swift"; sourceTree = "<group>"; };
 		B46DB18326A85487007BB049 /* Array_BOJ-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Array_BOJ-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -55,9 +56,10 @@
 		B41E33AB26A84911000388D1 /* Array_BOJ */ = {
 			isa = PBXGroup;
 			children = (
+				B46DB18326A85487007BB049 /* Array_BOJ-Bridging-Header.h */,
 				B41E33AC26A84911000388D1 /* 알파벳 갯수.swift */,
 				B46DB18426A85488007BB049 /* 개수 세기.swift */,
-				B46DB18326A85487007BB049 /* Array_BOJ-Bridging-Header.h */,
+				B41BAFC526A97EB4002FAEAB /* Strfry.swift */,
 			);
 			path = Array_BOJ;
 			sourceTree = "<group>";
