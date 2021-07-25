@@ -20,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		7531BD9E26AD3E7F006AA1AA /* 1475.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1475.swift; sourceTree = "<group>"; };
+		7531BDA026AD4788006AA1AA /* 1919.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1919.swift; sourceTree = "<group>"; };
 		7538260B26A806FD002FA1A9 /* Array_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Array_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		7538260E26A806FD002FA1A9 /* 11328.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11328.swift; sourceTree = "<group>"; };
 		757DEAF126AAB3F200CBCF71 /* 10808.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10808.swift; sourceTree = "<group>"; };
@@ -64,6 +65,7 @@
 				757DEAF726AC6AB700CBCF71 /* 2577.swift */,
 				757DEAFA26AC6CB300CBCF71 /* 13300.swift */,
 				7531BD9E26AD3E7F006AA1AA /* 1475.swift */,
+				7531BDA026AD4788006AA1AA /* 1919.swift */,
 			);
 			path = Array_BOJ;
 			sourceTree = "<group>";
