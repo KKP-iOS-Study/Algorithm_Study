@@ -1,13 +1,12 @@
 # Algorithm_Study
 swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 
-<br/>## 팀원
+## 팀원
 + [강호성](https://github.com/camosss)
 + [김설희](https://github.com/seolhee2750)
-+ [박소민](https://github.com/Somin-DS)<br/>
++ [박소민](https://github.com/Somin-DS)
 
-<br/>## 커리큘럼
-
+## 커리큘럼
 | 번호 | 주제 |
 | :--: | :--: |
 | 00 | [배열](workbook/0x03.md) |
