@@ -30,5 +30,5 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 | -- | -- |
 | 🖥 | [강의영상](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) |
 
-#####📎 [바킹독의 실전 알고리즘 강의 자료](https://github.com/encrypted-def/basic-algo-lecture) 를 참고합니다.
+##### 📎 [바킹독의 실전 알고리즘 강의 자료](https://github.com/encrypted-def/basic-algo-lecture) 를 참고합니다.
 
