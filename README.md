@@ -1,12 +1,16 @@
 # Algorithm_Study
 swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 
-## 팀원
+<br/>
+
+## 🤝 팀원
 + [강호성](https://github.com/camosss)
 + [김설희](https://github.com/seolhee2750)
 + [박소민](https://github.com/Somin-DS)
 
-## 커리큘럼
+<br/>
+
+## 📋 커리큘럼
 | 번호 | 주제 |
 | :--: | :--: |
 | 00 | [배열](workbook/0x03.md) |
@@ -29,5 +33,5 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 | -- | -- |
 | 🖥 | [강의영상](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY) |
 
--> [바킹독의 실전 알고리즘 강의 자료](https://github.com/encrypted-def/basic-algo-lecture) 를 참고합니다.
+-> [바킹독의 실전 알고리즘 강의 자료](https://github.com/encrypted-def/basic-algo-lecture) 를 참고합니다. 📎
 
