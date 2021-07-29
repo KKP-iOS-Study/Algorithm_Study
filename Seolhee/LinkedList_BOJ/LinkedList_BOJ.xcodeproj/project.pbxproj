@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7545CC7B26B27CD3008E6975 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545CC7A26B27CD3008E6975 /* main.swift */; };
+		7545CC8226B2991B008E6975 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7545CC8126B2991B008E6975 /* main.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,8 @@
 
 /* Begin PBXFileReference section */
 		7545CC7726B27CD3008E6975 /* LinkedList_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = LinkedList_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
-		7545CC7A26B27CD3008E6975 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		7545CC7A26B27CD3008E6975 /* 1406_배열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1406_배열.swift"; sourceTree = "<group>"; };
+		7545CC8126B2991B008E6975 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +58,8 @@
 		7545CC7926B27CD3008E6975 /* LinkedList_BOJ */ = {
 			isa = PBXGroup;
 			children = (
-				7545CC7A26B27CD3008E6975 /* main.swift */,
+				7545CC7A26B27CD3008E6975 /* 1406_배열.swift */,
+				7545CC8126B2991B008E6975 /* main.swift */,
 			);
 			path = LinkedList_BOJ;
 			sourceTree = "<group>";
@@ -93,6 +95,7 @@
 				TargetAttributes = {
 					7545CC7626B27CD3008E6975 = {
 						CreatedOnToolsVersion = 12.5;
+						LastSwiftMigration = 1250;
 					};
 				};
 			};
@@ -119,7 +122,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7545CC7B26B27CD3008E6975 /* main.swift in Sources */,
+				7545CC8226B2991B008E6975 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -244,10 +247,17 @@
 		7545CC7F26B27CD3008E6975 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = C75XXHMKCL;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -255,9 +265,15 @@
 		7545CC8026B27CD3008E6975 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = C75XXHMKCL;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
