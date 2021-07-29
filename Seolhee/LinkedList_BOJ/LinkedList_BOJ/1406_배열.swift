@@ -15,7 +15,7 @@ for _ in 0..<count {
     if edit == "L" && input[input.startIndex] != " " { toLeft() }
     if edit == "D" && input[input.endIndex] != " " { toRight() }
     if edit == "B" && input[input.startIndex] != " " { Remove() }
-    if edit[edit.startIndex] == "P" { Insert() }
+    if edit.first! == "P" { Insert() }
 }
 
 print(input.joined().filter({$0 != " "}))
@@ -45,9 +45,8 @@ func Remove() {
 
 // 'P' 명령어 처리 함수
 func Insert() {
-    let arr = Array(edit)
     let blank = input.firstIndex(of: " ")!
-    input.insert(String(arr[2]), at: blank)
+    input.insert(String(edit.last!), at: blank)
     return
 }
 
