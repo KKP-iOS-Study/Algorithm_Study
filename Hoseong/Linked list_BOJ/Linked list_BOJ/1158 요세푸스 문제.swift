@@ -15,7 +15,7 @@ var ans = ""
 // K씩 끊기는 idx를 ans에 추가하고(","도 추가), 제거
 while !nArr.isEmpty {
     
-    // K보다 배열의 카운트가 작아지면 인덱스가 범위를 벗어나기 때문에 고려
+    // 1~7에서 3, 6이 빠지면 끝번호 7부터 앞으로 세야한다. → ex) 7, 1, 2해서 2제거
     if K > nArr.count {
         K = K - nArr.count
         continue
