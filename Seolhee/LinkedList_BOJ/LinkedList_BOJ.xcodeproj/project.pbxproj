@@ -23,6 +23,7 @@
 		7545CC7A26B27CD3008E6975 /* 1406_배열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1406_배열.swift"; sourceTree = "<group>"; };
 		7545CC8126B2991B008E6975 /* 1406.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1406.swift; sourceTree = "<group>"; };
 		754724D326B3B9B7002A6BB6 /* 5397.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5397.swift; sourceTree = "<group>"; wrapsLines = 0; };
+		754724D626B3CBB5002A6BB6 /* 1158.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1158.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				7545CC7A26B27CD3008E6975 /* 1406_배열.swift */,
 				7545CC8126B2991B008E6975 /* 1406.swift */,
 				754724D326B3B9B7002A6BB6 /* 5397.swift */,
+				754724D626B3CBB5002A6BB6 /* 1158.swift */,
 			);
 			path = LinkedList_BOJ;
 			sourceTree = "<group>";
