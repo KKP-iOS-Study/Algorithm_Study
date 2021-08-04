@@ -22,4 +22,18 @@ for i in 1..<count {
 //    }
 }
 
+// 2중 for문 활용, 반복 횟수 줄임 -> 시간 초과
+//var n = 0
+//
+//for i in n..<count-1 {
+//    for j in i+1..<count {
+//        if top[j] < top[i] {
+//            result[j] = i+1
+//        }
+//        else {
+//            n = j
+//        }
+//    }
+//}
+
 print(result.map{String($0)}.joined(separator: " "))
