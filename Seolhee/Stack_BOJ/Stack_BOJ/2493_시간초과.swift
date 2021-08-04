@@ -1,4 +1,4 @@
-// BOJ #2483 탑
+// BOJ #2493 탑
 
 import Foundation
 
