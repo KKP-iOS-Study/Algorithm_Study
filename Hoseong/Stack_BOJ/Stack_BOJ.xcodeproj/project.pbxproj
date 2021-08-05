@@ -6,10 +6,6 @@
 	objectVersion = 50;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		B428474E26B66D2300F9F21C /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B428474D26B66D2300F9F21C /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		B428473826B6540B00F9F21C /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -27,7 +23,7 @@
 		B428473D26B6540B00F9F21C /* 10828 스택.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10828 스택.swift"; sourceTree = "<group>"; };
 		B428474726B6699D00F9F21C /* Stack_BOJ-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Stack_BOJ-Bridging-Header.h"; sourceTree = "<group>"; };
 		B428474826B6699D00F9F21C /* 10773 제로.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10773 제로.swift"; sourceTree = "<group>"; };
-		B428474D26B66D2300F9F21C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B428474D26B66D2300F9F21C /* 1874 스택 수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1874 스택 수열.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,7 +59,7 @@
 				B428474726B6699D00F9F21C /* Stack_BOJ-Bridging-Header.h */,
 				B428473D26B6540B00F9F21C /* 10828 스택.swift */,
 				B428474826B6699D00F9F21C /* 10773 제로.swift */,
-				B428474D26B66D2300F9F21C /* main.swift */,
+				B428474D26B66D2300F9F21C /* 1874 스택 수열.swift */,
 			);
 			path = Stack_BOJ;
 			sourceTree = "<group>";
@@ -126,7 +122,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B428474E26B66D2300F9F21C /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
