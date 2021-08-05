@@ -3,25 +3,25 @@ import Foundation
 
 let count = Int(readLine()!)!
 var result = 0
-var stack = [[Int]]()
+var stack = [Int]()
 
 for i in 0..<count {
     let h = Int(readLine()!)!
     
     if stack.isEmpty {
-        stack.append([i, h])
+        stack.append(h)
     }
     else {
-        if stack[stack.count-1][1] > h {
-            stack.append([i, h])
+        if stack[stack.count-1] > h {
+            stack.append(h)
         }
         else {
-            while stack[stack.count-1][1] <= h {
+            while stack[stack.count-1] <= h {
                 stack.removeLast()
                 result += stack.count
                 if stack.isEmpty { break }
             }
-            stack.append([i, h])
+            stack.append(h)
         }
     }
     
