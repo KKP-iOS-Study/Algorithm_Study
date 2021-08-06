@@ -36,4 +36,3 @@ if res != check {
 } else {
     print(ans.joined(separator: "\n"))
 }
-
