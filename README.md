@@ -35,13 +35,15 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 
 -> [바킹독의 실전 알고리즘 강의 자료](https://github.com/encrypted-def/basic-algo-lecture) 를 참고합니다. 📎
 
+-> [문제집 링크](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) 📎
+
 ---
 
 <br/>
 
 ## 🐾 진행 상황
 
-| 회차 | 날짜 | 내용 | |
+| 회차 | 날짜 | 내용 | 문제 (BOJ) |
 | :--: | :--: | :--: | :--: |
 | 01회차 | 07.28 | 배열 문제 풀이 피드백 | [11328](https://www.acmicpc.net/problem/11328), [10808](https://www.acmicpc.net/problem/10808), [10807](https://www.acmicpc.net/problem/10807), [2577](https://www.acmicpc.net/problem/2577), [13300](https://www.acmicpc.net/problem/13300), [1475](https://www.acmicpc.net/problem/1475), [1919](https://www.acmicpc.net/problem/1919), [3273](https://www.acmicpc.net/problem/3273) |
 | 02회차 | 07.30 | 연결리스트 문제 풀이 피드백 | [1406](https://www.acmicpc.net/problem/1406), [5397](https://www.acmicpc.net/problem/5397), [1158](https://www.acmicpc.net/problem/1158) |
