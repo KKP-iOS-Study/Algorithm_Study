@@ -11,6 +11,8 @@
 // split이 components에 비해 성능이 좋다고 한다..
 // 그 이유는 components는 쪼개려는 separator가 많을 수록 그걸 다 반환하기 때문에 느려진다고 함.
 // => 블로그에 자세히 정리해봐야겠다.
+//
+// test
 
 import Foundation
 
