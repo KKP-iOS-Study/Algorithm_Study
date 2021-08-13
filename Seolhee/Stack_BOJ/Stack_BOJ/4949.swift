@@ -22,6 +22,6 @@ while true {
     if check == false { print("no") }
     else {
         if !stack.isEmpty { print("no") }
-        else {print("yes")}
+        else { print("yes") }
     }
 }

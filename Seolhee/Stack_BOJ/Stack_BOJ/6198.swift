@@ -1,4 +1,5 @@
 // BOJ #6198 옥상 정원 꾸미기
+
 import Foundation
 
 let count = Int(readLine()!)!
