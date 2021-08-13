@@ -15,12 +15,14 @@
 import Foundation
 
 var count = Int(readLine()!)!
-var nums = readLine()!.split(separator: " ").map({Int(String($0))!})
-var stack = [[0, nums[0]]]
-var answer = Array(repeating: "-1", count: count)
+var nums = readLine()!.split(separator: " ").map({Int(String($0))!}) // 입력받은 수 배열
+var stack = [[0, nums[0]]] // 입력받은 수를 차례대로 검사하기 위한 스택 배열 (nums 배열의 인덱스와 요소를 받아온다.)
+var answer = Array(repeating: "-1", count: count) // -1로 채워진 결과 출력 배열
 
 for i in 1..<nums.count {
+    // 스택이 비어있지 않고, nums 배열의 i 번째 수가 스택의 마지막 수보다 클 경우에만 while문 실행
     while !stack.isEmpty && nums[i] > stack.last![1] {
+        // 스택의 마지막 요소 삭제와 동시에, 해당 숫자의 인덱스를 answer의 인덱스로 사용하여 해당 수의 오큰수인 nums[i]를 저장
         answer[stack.removeLast()[0]] = "\(nums[i])"
     }
     stack.append([i, nums[i]])
