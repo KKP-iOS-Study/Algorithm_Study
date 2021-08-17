@@ -21,6 +21,7 @@
 /* Begin PBXFileReference section */
 		754E3C5A26CBCF570066D6C6 /* 1931.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1931.swift; sourceTree = "<group>"; };
 		754E3C5D26CBD8FA0066D6C6 /* 2217.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2217.swift; sourceTree = "<group>"; };
+		754E3C6226CC069E0066D6C6 /* 1026.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1026.swift; sourceTree = "<group>"; };
 		759B776D26C6AFC500AA7B30 /* Greedy_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Greedy_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		759B777026C6AFC500AA7B30 /* 11047.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 11047.swift; sourceTree = "<group>"; };
 		759B777726C6D41F00AA7B30 /* 1931_시간초과.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1931_시간초과.swift"; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 				759B777726C6D41F00AA7B30 /* 1931_시간초과.swift */,
 				754E3C5A26CBCF570066D6C6 /* 1931.swift */,
 				754E3C5D26CBD8FA0066D6C6 /* 2217.swift */,
+				754E3C6226CC069E0066D6C6 /* 1026.swift */,
 			);
 			path = Greedy_BOJ;
 			sourceTree = "<group>";
