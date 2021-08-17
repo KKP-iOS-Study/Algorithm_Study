@@ -21,6 +21,8 @@
 /* Begin PBXFileReference section */
 		B4AB9BFB26CA5C3800B39556 /* Greedy */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Greedy; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4AB9BFE26CA5C3800B39556 /* 11047 동전 0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11047 동전 0.swift"; sourceTree = "<group>"; };
+		B4AB9C0526CA68C700B39556 /* Greedy-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Greedy-Bridging-Header.h"; sourceTree = "<group>"; };
+		B4AB9C0626CA68C800B39556 /* 1931 회의실 배정.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1931 회의실 배정.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +55,9 @@
 		B4AB9BFD26CA5C3800B39556 /* Greedy */ = {
 			isa = PBXGroup;
 			children = (
+				B4AB9C0526CA68C700B39556 /* Greedy-Bridging-Header.h */,
 				B4AB9BFE26CA5C3800B39556 /* 11047 동전 0.swift */,
+				B4AB9C0626CA68C800B39556 /* 1931 회의실 배정.swift */,
 			);
 			path = Greedy;
 			sourceTree = "<group>";
@@ -89,6 +93,7 @@
 				TargetAttributes = {
 					B4AB9BFA26CA5C3800B39556 = {
 						CreatedOnToolsVersion = 12.5.1;
+						LastSwiftMigration = 1250;
 					};
 				};
 			};
@@ -239,10 +244,18 @@
 		B4AB9C0326CA5C3800B39556 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS89TXQ5T;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Greedy/Greedy-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -250,10 +263,17 @@
 		B4AB9C0426CA5C3800B39556 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS89TXQ5T;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Greedy/Greedy-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
