@@ -19,7 +19,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+<<<<<<< HEAD
 		754040CB26CCE38000E2EA13 /* 1744.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1744.swift; sourceTree = "<group>"; };
+=======
+		754040C826CCDCDC00E2EA13 /* 2847.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2847.swift; sourceTree = "<group>"; };
+>>>>>>> seolhee
 		754E3C5A26CBCF570066D6C6 /* 1931.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1931.swift; sourceTree = "<group>"; };
 		754E3C5D26CBD8FA0066D6C6 /* 2217.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2217.swift; sourceTree = "<group>"; };
 		754E3C6226CC069E0066D6C6 /* 1026.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1026.swift; sourceTree = "<group>"; };
@@ -67,7 +71,11 @@
 				754E3C6226CC069E0066D6C6 /* 1026.swift */,
 				754E3C6526CC0BF80066D6C6 /* 11399.swift */,
 				754E3C6826CC0F340066D6C6 /* 1541.swift */,
+<<<<<<< HEAD
 				754040CB26CCE38000E2EA13 /* 1744.swift */,
+=======
+				754040C826CCDCDC00E2EA13 /* 2847.swift */,
+>>>>>>> seolhee
 			);
 			path = Greedy_BOJ;
 			sourceTree = "<group>";

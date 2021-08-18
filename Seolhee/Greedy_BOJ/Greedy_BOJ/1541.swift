@@ -22,3 +22,4 @@ for i in 0..<input.count {
 }
 
 print(sum)
+
