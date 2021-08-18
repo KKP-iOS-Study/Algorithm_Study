@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		754040ED26CCEDE000E2EA13 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754040EC26CCEDE000E2EA13 /* main.swift */; };
 		754040F426CCEDF200E2EA13 /* 1026.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754040F326CCEDF200E2EA13 /* 1026.swift */; };
 		754040F626CCEE0800E2EA13 /* 1541.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754040F526CCEE0800E2EA13 /* 1541.swift */; };
 		754040FE26CCEE1E00E2EA13 /* 2847.swift in Sources */ = {isa = PBXBuildFile; fileRef = 754040F726CCEE1E00E2EA13 /* 2847.swift */; };
@@ -33,7 +32,6 @@
 
 /* Begin PBXFileReference section */
 		754040E926CCEDE000E2EA13 /* Greedy_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Greedy_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
-		754040EC26CCEDE000E2EA13 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		754040F326CCEDF200E2EA13 /* 1026.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 1026.swift; path = ../../../../../../.Trash/Greedy_BOJ/Greedy_BOJ/1026.swift; sourceTree = "<group>"; };
 		754040F526CCEE0800E2EA13 /* 1541.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 1541.swift; path = ../../../../../../.Trash/Greedy_BOJ/Greedy_BOJ/1541.swift; sourceTree = "<group>"; };
 		754040F726CCEE1E00E2EA13 /* 2847.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = 2847.swift; path = ../../../../../../.Trash/Greedy_BOJ/Greedy_BOJ/2847.swift; sourceTree = "<group>"; };
@@ -84,7 +82,6 @@
 				754040F726CCEE1E00E2EA13 /* 2847.swift */,
 				754040F826CCEE1E00E2EA13 /* 11047.swift */,
 				754040FD26CCEE1E00E2EA13 /* 11399.swift */,
-				754040EC26CCEDE000E2EA13 /* main.swift */,
 			);
 			path = Greedy_BOJ;
 			sourceTree = "<group>";
@@ -154,7 +151,6 @@
 				7540410126CCEE1E00E2EA13 /* 1744.swift in Sources */,
 				754040FE26CCEE1E00E2EA13 /* 2847.swift in Sources */,
 				7540410326CCEE1E00E2EA13 /* 1931.swift in Sources */,
-				754040ED26CCEDE000E2EA13 /* main.swift in Sources */,
 				7540410426CCEE1E00E2EA13 /* 11399.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
