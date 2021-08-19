@@ -24,6 +24,5 @@ for i in 1...N {
     }
     tempArray.append(input[N - i])
 }
-for i in answerArray.reversed() {
-    print(i, terminator: " ")
-}
+print(answerArray.reversed().map({String($0)}).joined(saparator: " "))
+
