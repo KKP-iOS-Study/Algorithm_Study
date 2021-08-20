@@ -23,6 +23,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		372A2F2726CF1D210082FB55 /* 1541-잃어버린괄호.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1541-잃어버린괄호.swift"; sourceTree = "<group>"; };
+		372A2F2826CF24310082FB55 /* 2847-게임을만든동준이.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2847-게임을만든동준이.swift"; sourceTree = "<group>"; };
 		3776975126C7F5FB007A39EF /* Greedy_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Greedy_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		3776975426C7F5FB007A39EF /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		3776975B26C80203007A39EF /* 2164-카드.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2164-카드.swift"; sourceTree = "<group>"; };
@@ -31,6 +33,8 @@
 		3776975F26CAA2E3007A39EF /* 1026-보석.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1026-보석.swift"; sourceTree = "<group>"; };
 		3776976026CAAA0F007A39EF /* 2217-로프.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2217-로프.swift"; sourceTree = "<group>"; };
 		3776976126CAAC4F007A39EF /* 11399-ATM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11399-ATM.swift"; sourceTree = "<group>"; };
+		3791AE3F26CF9AAF001312C2 /* 1744-수묶기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1744-수묶기.swift"; sourceTree = "<group>"; };
+		37EEAA3226CFCD7B0075A8D8 /* 1439-뒤집기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1439-뒤집기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +68,10 @@
 			isa = PBXGroup;
 			children = (
 				3776975426C7F5FB007A39EF /* main.swift */,
+				37EEAA3226CFCD7B0075A8D8 /* 1439-뒤집기.swift */,
+				3791AE3F26CF9AAF001312C2 /* 1744-수묶기.swift */,
+				372A2F2826CF24310082FB55 /* 2847-게임을만든동준이.swift */,
+				372A2F2726CF1D210082FB55 /* 1541-잃어버린괄호.swift */,
 				3776976126CAAC4F007A39EF /* 11399-ATM.swift */,
 				3776976026CAAA0F007A39EF /* 2217-로프.swift */,
 				3776975F26CAA2E3007A39EF /* 1026-보석.swift */,
