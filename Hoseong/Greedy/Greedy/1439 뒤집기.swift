@@ -21,6 +21,6 @@ for i in 1..<num.count {
         if num[i] == "0" { zeroSec += 1 } else { oneSec += 1 }
         
     }
-    print("zero \(zeroSec), one \(oneSec)")
 }
+
 print(zeroSec > oneSec ? oneSec : zeroSec)
