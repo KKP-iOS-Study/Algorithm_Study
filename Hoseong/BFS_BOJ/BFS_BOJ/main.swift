@@ -24,6 +24,7 @@ var width = 0 // 가장 넓은 넓이
 func sol(_ x: Int, _ y: Int) {
     
     let d: [(x: Int, y: Int)] = [(-1, 0), (1, 0), (0, -1), (0, 1)] // 상, 하, 좌, 우 체크
+    print("d = \(d)")
     var q: [(x: Int, y: Int)] = [(x, y)]
     
     check[x][y] = true // 해당 노드 방문 처리
