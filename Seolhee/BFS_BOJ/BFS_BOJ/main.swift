@@ -17,8 +17,11 @@ for _ in 0..<n {
 
 // bfs 함수 구현
 func bfs() {
-    while !queue.isEmpty {
-        let (x, y) = queue.removeFirst()
+    var index = 0 // queue를 removeFirst하니까 시간초과,, => 굳이 제거하지않고 인덱스로 찾아줌.
+    
+    while index < queue.count {
+        let (x, y) = queue[index]
+        index += 1
         
         for i in 0..<4 {
             let nx = x + dx[i]
