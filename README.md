@@ -7,6 +7,7 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 + [강호성](https://github.com/camosss)
 + [김설희](https://github.com/seolhee2750)
 + [박소민](https://github.com/Somin-DS)
++ [이호승](https://github.com/urijan44)
 
 <br/>
 
