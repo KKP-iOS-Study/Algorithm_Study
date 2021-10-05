@@ -6,6 +6,7 @@
 //
 
 // N 이 K 를 찾는 가장 빠른시간 출력
+// N 위치에서 1초 후 갈 수 있는 모든 좌표를 큐에 넣고 BFS 로 탐색
 
 let input = readLine()!.split(separator: " ").map {Int(String($0))!}
 var N = input[0], K = input[1]
@@ -13,7 +14,6 @@ var N = input[0], K = input[1]
 // N 이 이미 방문한 곳 체크
 var visit = Array(repeating: false, count: 100001)
 
-// N 위치에서 1초 후 갈 수 있는 모든 좌표를 큐에 넣고 BFS 로 탐색
 var queue = [(N, 0)] // (수빈 위치, 시간)
 
 // 위치가 유효한지 체크
@@ -21,6 +21,7 @@ func check(_ n: Int) -> Bool { n<0 || n>100000 ? false : true }
 
 var idx = 0
 var result = 0 // 출력 시간
+
 
 while queue.count > idx {
     let pop = queue[idx]

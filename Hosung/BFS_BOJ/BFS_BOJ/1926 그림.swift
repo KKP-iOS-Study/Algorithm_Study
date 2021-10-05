@@ -43,7 +43,6 @@ func BFS(_ x: Int, _ y: Int) {
                     queue.append([nx, ny])
                     check[nx][ny] = true
                     count += 1
-                    print("count = \(count)")
                 }
             }
         }
@@ -55,7 +54,6 @@ func BFS(_ x: Int, _ y: Int) {
 for i in 0..<n {
     for j in 0..<m {
         if graph[i][j] == "1" && check[i][j] == false {
-            print("i = \(i), j = \(j)")
             BFS(i, j)
             cnt += 1
         }

@@ -59,3 +59,4 @@ BFS()
 
 // 다 익은 상태면 0, 다 익지 못하면 -1
 count == 0 ? print(0) : (count == cnt ? print(box.flatMap({$0}).max()!-1) : print(-1))
+
