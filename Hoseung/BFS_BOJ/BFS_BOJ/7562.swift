@@ -12,6 +12,7 @@ https://www.acmicpc.net/problem/7562
  
 */
 
+
 fileprivate struct Queue<Element> {
   private var arr: [Element?] = []
   private var readIndex: Int = 0
@@ -70,44 +71,47 @@ func getCourse(_ x: Int, _ y: Int) -> [(x: Int, y: Int)] {
 }
 
 
+func boj7562Solve() {
+  let testCase = Int(readLine()!)!
 
-let testCase = Int(readLine()!)!
-
-for _ in 1...testCase {
-  let boardSize = Int(readLine()!)!
-  let startPoint = readLine()!.split(separator: " ").map { Int(String($0))! }
-  let destinationPoint = readLine()!.split(separator: " ").map { Int(String($0))! }
-  
-  if startPoint == destinationPoint {
-    print(0)
-  } else {
-    var chessBoard: [[Int]] = .init(repeating: .init(repeating: -1, count: boardSize), count: boardSize)
-    var queue = Queue<(x: Int, y: Int)>(count: boardSize * boardSize)
+  for _ in 1...testCase {
+    let boardSize = Int(readLine()!)!
+    let startPoint = readLine()!.split(separator: " ").map { Int(String($0))! }
+    let destinationPoint = readLine()!.split(separator: " ").map { Int(String($0))! }
     
-    var done = false
-    queue.enqueue((x: startPoint[0], y: startPoint[1]))
-    chessBoard[startPoint[0]][startPoint[1]] = 0
-    
-    while let currentPoint = queue.dequeue(), !done {
-      let (x, y) = currentPoint
+    if startPoint == destinationPoint {
+      print(0)
+    } else {
+      var chessBoard: [[Int]] = .init(repeating: .init(repeating: -1, count: boardSize), count: boardSize)
+      var queue = Queue<(x: Int, y: Int)>(count: boardSize * boardSize)
       
-     getCourse(x, y).forEach { points in
-        if points.x > -1 && points.y > -1 && points.x < boardSize && points.y < boardSize
-            && chessBoard[points.x][points.y] == -1 {
-          
-          queue.enqueue((x: points.x, y: points.y))
-          chessBoard[points.x][points.y] = chessBoard[x][y] + 1
-          
-          //if find destination, quick quit
-          if chessBoard[destinationPoint[0]][destinationPoint[1]] != -1{
-            done = true
-            return
+      var done = false
+      queue.enqueue((x: startPoint[0], y: startPoint[1]))
+      chessBoard[startPoint[0]][startPoint[1]] = 0
+      
+      while let currentPoint = queue.dequeue(), !done {
+        let (x, y) = currentPoint
+        
+       getCourse(x, y).forEach { points in
+          if points.x > -1 && points.y > -1 && points.x < boardSize && points.y < boardSize
+              && chessBoard[points.x][points.y] == -1 {
+            
+            queue.enqueue((x: points.x, y: points.y))
+            chessBoard[points.x][points.y] = chessBoard[x][y] + 1
+            
+            //if find destination, quick quit
+            if chessBoard[destinationPoint[0]][destinationPoint[1]] != -1{
+              done = true
+              return
+            }
           }
         }
       }
+      print(chessBoard[destinationPoint[0]][destinationPoint[1]])
     }
-    print(chessBoard[destinationPoint[0]][destinationPoint[1]])
   }
+
 }
+
 
 
