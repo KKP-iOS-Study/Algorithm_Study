@@ -26,6 +26,7 @@ func boj7576() {
   var tomatos: [[Int]] = .init(repeating: .init(repeating: 0, count: cBound), count: rBound)
   
   var queue: [(r: Int, c: Int)] = []
+  
   var readIndex = 0
   
   for r in 0..<rBound {
