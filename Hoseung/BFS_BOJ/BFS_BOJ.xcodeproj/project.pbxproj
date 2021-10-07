@@ -13,6 +13,7 @@
 		8AB2CD4F270C5EDA0083C88A /* 7562.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB2CD4E270C5EDA0083C88A /* 7562.swift */; };
 		8AB64DEC270C74CA00CFCAA7 /* 2178.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB64DEB270C74CA00CFCAA7 /* 2178.swift */; };
 		8AB64DEE270C7E9700CFCAA7 /* 1926.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB64DED270C7E9700CFCAA7 /* 1926.swift */; };
+		8AC5C4CD270F582F0052CF18 /* 1012.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC5C4CC270F582F0052CF18 /* 1012.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		8AB2CD4E270C5EDA0083C88A /* 7562.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = 7562.swift; sourceTree = "<group>"; };
 		8AB64DEB270C74CA00CFCAA7 /* 2178.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2178.swift; sourceTree = "<group>"; };
 		8AB64DED270C7E9700CFCAA7 /* 1926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1926.swift; sourceTree = "<group>"; };
+		8AC5C4CC270F582F0052CF18 /* 1012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1012.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				8AB64DEB270C74CA00CFCAA7 /* 2178.swift */,
 				8AB64DED270C7E9700CFCAA7 /* 1926.swift */,
 				8AABD7E1270EF12400DAEFE4 /* 7576.swift */,
+				8AC5C4CC270F582F0052CF18 /* 1012.swift */,
 			);
 			path = BFS_BOJ;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 				8AB64DEE270C7E9700CFCAA7 /* 1926.swift in Sources */,
 				8A973E62270B33CB00EA3667 /* 1697.swift in Sources */,
 				8AB2CD4F270C5EDA0083C88A /* 7562.swift in Sources */,
+				8AC5C4CD270F582F0052CF18 /* 1012.swift in Sources */,
 				8AABD7E2270EF12400DAEFE4 /* 7576.swift in Sources */,
 				8A973E53270B2D6B00EA3667 /* main.swift in Sources */,
 				8AB64DEC270C74CA00CFCAA7 /* 2178.swift in Sources */,
