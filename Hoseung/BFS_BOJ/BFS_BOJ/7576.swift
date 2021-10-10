@@ -9,7 +9,7 @@ KKP-iOS-Study : Algorithm Study
 
 */
 
-func getNextPoints(_ r: Int, _ c: Int) -> [(r: Int, c: Int)] {
+fileprivate func getNextPoints(_ r: Int, _ c: Int) -> [(r: Int, c: Int)] {
   return [
     (r + 1, c),
     (r - 1, c),

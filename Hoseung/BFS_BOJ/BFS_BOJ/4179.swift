@@ -85,5 +85,3 @@ func boj4179() {
   print(time < 1001 ? time : "IMPOSSIBLE")
   
 }
-
-boj4179()

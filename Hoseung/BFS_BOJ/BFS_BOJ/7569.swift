@@ -9,7 +9,7 @@ KKP-iOS-Study : Algorithm Study
 
 */
 
-func getNextPoints(_ points: (m: Int, n: Int, h: Int)) -> [(m: Int, n: Int, h: Int)] {
+fileprivate func getNextPoints(_ points: (m: Int, n: Int, h: Int)) -> [(m: Int, n: Int, h: Int)] {
   [
     (points.m + 1, points.n, points.h),
     (points.m - 1, points.n, points.h),
