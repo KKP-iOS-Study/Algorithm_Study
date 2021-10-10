@@ -1,8 +1,8 @@
 //
 /*
-BFS_BOJ 1697.swift
+BFS_BOJ 숨바꼭질 1697.swift
 Created by: hoseung Lee on 2021/10/04
-
+https://www.acmicpc.net/problem/1697
 https://github.com/KKP-iOS-Study/Algorithm_Study
 
 KKP-iOS-Study : Algorithm Study
