@@ -49,7 +49,7 @@ func boj2583() {
         
         if board[next.r][next.c] == -1 || visited[next.r][next.c] == 1 { continue }
         visited[next.r][next.c] = 1
-        board[next.r][next.c] = boardSize + 1
+//        board[next.r][next.c] = boardSize + 1
         boardSize += 1
         queue.append(next)
       }
