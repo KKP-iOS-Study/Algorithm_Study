@@ -20,7 +20,6 @@ for k in 0..<h {
         box[k][j].append(contentsOf: row)
     }
 }
-print(box)
 
 // 위, 아래, 상, 하, 좌, 우 체크
 let dx = [-1, 1, 0, 0, 0 ,0], dy = [0, 0, -1, 1, 0, 0], dz = [0, 0, 0, 0, -1, 1]
@@ -70,7 +69,6 @@ for z in 0..<h {
 
 // 2. bfs 탐색
 bfs()
-print(box)
 
 // 3. bfs 후, 다 익은 상태면 0, 다 익지 못하면 -1
 underCook == 0 ? print(0) : (underCook == toCook ? print(box.flatMap({$0}).flatMap({$0}).max()!-1) : print(-1))
