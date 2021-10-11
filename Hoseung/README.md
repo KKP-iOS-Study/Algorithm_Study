@@ -11,3 +11,4 @@
 - [#7569 토마토(3차원)](https://www.acmicpc.net/problem/7569) [[풀이]](BFS_BOJ/BFS_BOJ/7569.swift)
 - [#2583 영역구하기](https://www.acmicpc.net/problem/2583) [[풀이]](BFS_BOJ/BFS_BOJ/2583.swift)
 - [#2667 단지번호붙이기](https://www.acmicpc.net/problem/2667) [[풀이]](BFS_BOJ/BFS_BOJ/2667.swift)
+- [#2468 안전영역](https://www.acmicpc.net/problem/2468) [[풀이]](BFS_BOJ/BFS_BOJ/2468.swift)
