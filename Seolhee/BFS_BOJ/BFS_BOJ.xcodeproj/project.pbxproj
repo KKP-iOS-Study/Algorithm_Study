@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		755E709E27145EED002DC144 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 755E709D27145EED002DC144 /* main.swift */; };
+		755E709E27145EED002DC144 /* 7562.swift in Sources */ = {isa = PBXBuildFile; fileRef = 755E709D27145EED002DC144 /* 7562.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,7 +25,7 @@
 /* Begin PBXFileReference section */
 		75054CF12706FB9A0037A795 /* 7576.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7576.swift; sourceTree = "<group>"; };
 		7533526F270F341A003B95D3 /* 7569.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7569.swift; sourceTree = "<group>"; };
-		755E709D27145EED002DC144 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		755E709D27145EED002DC144 /* 7562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7562.swift; sourceTree = "<group>"; };
 		7566C057270C6F98007C0FF6 /* 1012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1012.swift; sourceTree = "<group>"; };
 		758BDB9427071A82008FB513 /* 4179.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4179.swift; sourceTree = "<group>"; };
 		75947F1C26EE40A800C556EB /* BFS_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BFS_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -75,7 +75,7 @@
 				7533526F270F341A003B95D3 /* 7569.swift */,
 				75B6AD1A2710822F0040B257 /* 2583.swift */,
 				75BE704D27130EF40072A255 /* 2667.swift */,
-				755E709D27145EED002DC144 /* main.swift */,
+				755E709D27145EED002DC144 /* 7562.swift */,
 			);
 			path = BFS_BOJ;
 			sourceTree = "<group>";
@@ -138,7 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				755E709E27145EED002DC144 /* main.swift in Sources */,
+				755E709E27145EED002DC144 /* 7562.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
