@@ -13,3 +13,8 @@
 - [#2667 단지번호붙이기](https://www.acmicpc.net/problem/2667) [[풀이]](BFS_BOJ/BFS_BOJ/2667.swift)
 - [#2468 안전영역](https://www.acmicpc.net/problem/2468) [[풀이]](BFS_BOJ/BFS_BOJ/2468.swift)
 - [#2146 다리만들기](https://www.acmicpc.net/problem/2146) [[풀이]](BFS_BOJ/BFS_BOJ/2146.swift)
+
+## DP
+- [#1463 1로 만들기](https://www.acmicpc.net/problem/1463) [[풀이]](DP/DP/1463.swift)
+- [#9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) [[풀이]](DP/DP/9095.swift)
+- [#2579 계단오르기](https://www.acmicpc.net/problem/2579) [[풀이]](DP/DP/2579.swift)
