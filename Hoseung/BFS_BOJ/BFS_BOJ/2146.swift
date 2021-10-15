@@ -44,7 +44,6 @@ func boj2146() {
     }
   }
   var boundCoordinates: [Int: Set<Point>] = [:]
-  
   func bfs(_ point: Point, _ islandNumber: Int) {
     var queue = [point]
     var readIndex = 0
