@@ -19,3 +19,4 @@
 - [#9095 1,2,3 더하기](https://www.acmicpc.net/problem/9095) [[풀이]](DP/DP/9095.swift)
 - [#2579 계단오르기](https://www.acmicpc.net/problem/2579) [[풀이]](DP/DP/2579.swift)
 - [#1149 RBG거리](https://www.acmicpc.net/problem/1149) [[풀이]](DP/DP/1149.swift)
+- [#11726 2xn 타일링](https://www.acmicpc.net/problem/11726) [[풀이]](DP/DP/11726.swift)
