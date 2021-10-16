@@ -22,3 +22,4 @@
 - [#1149 RBG거리](https://www.acmicpc.net/problem/1149) [[풀이]](DP/DP/1149.swift)
 - [#11726 2xn 타일링](https://www.acmicpc.net/problem/11726) [[풀이]](DP/DP/11726.swift)
 - [#11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) [[풀이]](DP/DP/11659.swift)
+- [#12852 1로 만들기2](https://www.acmicpc.net/problem/12852) [[풀이]](DP/DP/12852.swift)
