@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8A08ADE5270FC9410064B97A /* 4179.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A08ADE4270FC9410064B97A /* 4179.swift */; };
+		8A298BEF271B1A21001AD94A /* 2606.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A298BEE271B1A21001AD94A /* 2606.swift */; };
 		8A3DA1F127150EDE006DB1F5 /* 2146.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3DA1F027150EDE006DB1F5 /* 2146.swift */; };
 		8A7ACA5B2712A2EF00BC3ED5 /* 2583.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A7ACA5A2712A2EF00BC3ED5 /* 2583.swift */; };
 		8A973E53270B2D6B00EA3667 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A973E52270B2D6B00EA3667 /* main.swift */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		8A08ADE4270FC9410064B97A /* 4179.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4179.swift; sourceTree = "<group>"; };
+		8A298BEE271B1A21001AD94A /* 2606.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2606.swift; sourceTree = "<group>"; };
 		8A3DA1F027150EDE006DB1F5 /* 2146.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2146.swift; sourceTree = "<group>"; };
 		8A7ACA5A2712A2EF00BC3ED5 /* 2583.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2583.swift; sourceTree = "<group>"; };
 		8A973E4F270B2D6B00EA3667 /* BFS_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BFS_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -94,6 +96,7 @@
 				8AED42C5271459EC005332C6 /* 2667.swift */,
 				8AED42C72714694E005332C6 /* 2468.swift */,
 				8A3DA1F027150EDE006DB1F5 /* 2146.swift */,
+				8A298BEE271B1A21001AD94A /* 2606.swift */,
 			);
 			path = BFS_BOJ;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				8A7ACA5B2712A2EF00BC3ED5 /* 2583.swift in Sources */,
 				8AC5C4CD270F582F0052CF18 /* 1012.swift in Sources */,
 				8AABD7E2270EF12400DAEFE4 /* 7576.swift in Sources */,
+				8A298BEF271B1A21001AD94A /* 2606.swift in Sources */,
 				8A973E53270B2D6B00EA3667 /* main.swift in Sources */,
 				8AB64DEC270C74CA00CFCAA7 /* 2178.swift in Sources */,
 			);
