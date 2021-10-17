@@ -21,7 +21,6 @@ for i in 0...n {
     if i%2==0 && dp[i] > dp[i/2]+1 {
         dp[i] = dp[i/2]+1
     }
-    print(i, dp)
 }
 
 print(dp[n])
