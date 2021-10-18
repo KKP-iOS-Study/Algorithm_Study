@@ -47,7 +47,7 @@
 		75947F1326EE40A800C556EB = {
 			isa = PBXGroup;
 			children = (
-				75947F1E26EE40A800C556EB /* BFS_BOJ */,
+				75947F1E26EE40A800C556EB /* BFS-DFS_BOJ */,
 				75947F1D26EE40A800C556EB /* Products */,
 			);
 			sourceTree = "<group>";
@@ -60,7 +60,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		75947F1E26EE40A800C556EB /* BFS_BOJ */ = {
+		75947F1E26EE40A800C556EB /* BFS-DFS_BOJ */ = {
 			isa = PBXGroup;
 			children = (
 				75947F1F26EE40A800C556EB /* 1926.swift */,
@@ -75,7 +75,7 @@
 				755E709D27145EED002DC144 /* 7562.swift */,
 				75B2DAA3271469EE00E99FAE /* 2468.swift */,
 			);
-			path = BFS_BOJ;
+			path = "BFS-DFS_BOJ";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
