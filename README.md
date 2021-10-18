@@ -21,12 +21,12 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 | 04 | 08.13 | 스택 문제 풀이 피드백 | [9012](https://www.acmicpc.net/problem/9012), [4949](https://www.acmicpc.net/problem/4949), [17298](https://www.acmicpc.net/problem/17298) |
 | 05 | 08.20 | 큐, 그리디 문제 풀이 피드백 | [2164](https://www.acmicpc.net/problem/2164), [11047](https://www.acmicpc.net/problem/11047), [1931](https://www.acmicpc.net/problem/1931), [2217](https://www.acmicpc.net/problem/2217), [1026](https://www.acmicpc.net/problem/1026), [11399](https://www.acmicpc.net/problem/11399), [1541](https://www.acmicpc.net/problem/1541), [2847](https://www.acmicpc.net/problem/2847), [1744](https://www.acmicpc.net/problem/1744), [1439](https://www.acmicpc.net/problem/1439) |
 | 06 | 09.03 | 그리디 문제 풀이 | [1700](https://www.acmicpc.net/problem/1700), [15903](https://www.acmicpc.net/problem/15903), [8980](https://www.acmicpc.net/problem/8980), [7570](https://www.acmicpc.net/problem/7570), [2457](https://www.acmicpc.net/problem/2457), [11501](https://www.acmicpc.net/problem/11501) |
-| 07 | 09.17 | BFS 문제 풀이 및 피드백 | [1926](https://www.acmicpc.net/problem/1926), [2178](https://www.acmicpc.net/problem/2178) |
-| 08 | 10.02 | BFS 문제 풀이 및 피드백 | [7576](https://www.acmicpc.net/problem/7576) |
-| 09 | 10.05 | BFS 문제 풀이 및 피드백 | [1697](https://www.acmicpc.net/problem/1697) |
-| 10 | 10.07 | BFS 문제 풀이 및 피드백 | [1012](https://www.acmicpc.net/problem/1012), [7576](https://www.acmicpc.net/problem/7576) |
-| 11 | 10.10 | BFS 문제 풀이 및 피드백 | [7569](https://www.acmicpc.net/problem/7569), [2583](https://www.acmicpc.net/problem/2583) |
-| 12 | 10.13 | BFS 문제 풀이 및 피드백 | [2667](https://www.acmicpc.net/problem/2667), [7562](https://www.acmicpc.net/problem/7562), [2468](https://www.acmicpc.net/problem/2468) |
+| 07 | 09.17 | BFS/DFS 문제 풀이 및 피드백 | [1926](https://www.acmicpc.net/problem/1926), [2178](https://www.acmicpc.net/problem/2178) |
+| 08 | 10.02 | BFS/DFS 문제 풀이 및 피드백 | [7576](https://www.acmicpc.net/problem/7576) |
+| 09 | 10.05 | BFS/DFS 문제 풀이 및 피드백 | [1697](https://www.acmicpc.net/problem/1697) |
+| 10 | 10.07 | BFS/DFS 문제 풀이 및 피드백 | [1012](https://www.acmicpc.net/problem/1012), [7576](https://www.acmicpc.net/problem/7576) |
+| 11 | 10.10 | BFS/DFS 문제 풀이 및 피드백 | [7569](https://www.acmicpc.net/problem/7569), [2583](https://www.acmicpc.net/problem/2583) |
+| 12 | 10.13 | BFS/DFS 문제 풀이 및 피드백 | [2667](https://www.acmicpc.net/problem/2667), [7562](https://www.acmicpc.net/problem/7562), [2468](https://www.acmicpc.net/problem/2468) |
 | 13 | 10.17 | DP 문제 풀이 및 피드백 | [1463](https://www.acmicpc.net/problem/1463), [9095](https://www.acmicpc.net/problem/9095), [2579](https://www.acmicpc.net/problem/2579) |
 
 <br/>
