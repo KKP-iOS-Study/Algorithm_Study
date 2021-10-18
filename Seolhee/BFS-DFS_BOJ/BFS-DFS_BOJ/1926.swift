@@ -13,7 +13,7 @@ var count = 0 // 그림 개수 카운트
 var area = 0 // 그림마다 넓이 체크
 var max = 0 // 최대 그림 크기
 
-// bfs 재귀함수
+// dfs 재귀함수
 func solution(_ x: Int, _ y: Int) {
     // i와 j가 도화지 크기 안에 해당하지 않거나, 1이 아닐 경우에 함수 종료
     if x < 0 || x >= paper[0] || y < 0 || y >= paper[1] || check[x][y] != 1 { return }
@@ -34,7 +34,7 @@ if paper[0] > 0 {
         for j in 0..<paper[1] {
             // 1일 경우 (메인 실행 코드)
             if check[i][j] == 1 {
-                area = 0 // bfs 함수 실행 전 max 초기화
+                area = 0 // dfs 함수 실행 전 max 초기화
                 solution(i, j) // 함수 호출
                 count += 1 // 카운트
                 if max < area { max = area } // max가 total보다 클 경우 max 업데이트
