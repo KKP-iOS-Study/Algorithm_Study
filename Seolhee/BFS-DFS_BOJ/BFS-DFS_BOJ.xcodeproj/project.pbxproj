@@ -24,7 +24,7 @@
 		755E709D27145EED002DC144 /* 7562.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 7562.swift; sourceTree = "<group>"; };
 		7566C057270C6F98007C0FF6 /* 1012.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1012.swift; sourceTree = "<group>"; };
 		758BDB9427071A82008FB513 /* 4179.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 4179.swift; sourceTree = "<group>"; };
-		75947F1C26EE40A800C556EB /* BFS_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BFS_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
+		75947F1C26EE40A800C556EB /* BFS-DFS_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BFS-DFS_BOJ"; sourceTree = BUILT_PRODUCTS_DIR; };
 		75947F1F26EE40A800C556EB /* 1926.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1926.swift; sourceTree = "<group>"; };
 		75A74346270B050200A2CFF0 /* 1697.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1697.swift; sourceTree = "<group>"; };
 		75B2DAA3271469EE00E99FAE /* 2468.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2468.swift; sourceTree = "<group>"; };
@@ -55,7 +55,7 @@
 		75947F1D26EE40A800C556EB /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				75947F1C26EE40A800C556EB /* BFS_BOJ */,
+				75947F1C26EE40A800C556EB /* BFS-DFS_BOJ */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -81,9 +81,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		75947F1B26EE40A800C556EB /* BFS_BOJ */ = {
+		75947F1B26EE40A800C556EB /* BFS-DFS_BOJ */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 75947F2326EE40A800C556EB /* Build configuration list for PBXNativeTarget "BFS_BOJ" */;
+			buildConfigurationList = 75947F2326EE40A800C556EB /* Build configuration list for PBXNativeTarget "BFS-DFS_BOJ" */;
 			buildPhases = (
 				75947F1826EE40A800C556EB /* Sources */,
 				75947F1926EE40A800C556EB /* Frameworks */,
@@ -93,9 +93,9 @@
 			);
 			dependencies = (
 			);
-			name = BFS_BOJ;
+			name = "BFS-DFS_BOJ";
 			productName = BFS_BOJ;
-			productReference = 75947F1C26EE40A800C556EB /* BFS_BOJ */;
+			productReference = 75947F1C26EE40A800C556EB /* BFS-DFS_BOJ */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -113,7 +113,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 75947F1726EE40A800C556EB /* Build configuration list for PBXProject "BFS_BOJ" */;
+			buildConfigurationList = 75947F1726EE40A800C556EB /* Build configuration list for PBXProject "BFS-DFS_BOJ" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -126,7 +126,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				75947F1B26EE40A800C556EB /* BFS_BOJ */,
+				75947F1B26EE40A800C556EB /* BFS-DFS_BOJ */,
 			);
 		};
 /* End PBXProject section */
@@ -295,7 +295,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		75947F1726EE40A800C556EB /* Build configuration list for PBXProject "BFS_BOJ" */ = {
+		75947F1726EE40A800C556EB /* Build configuration list for PBXProject "BFS-DFS_BOJ" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				75947F2126EE40A800C556EB /* Debug */,
@@ -304,7 +304,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		75947F2326EE40A800C556EB /* Build configuration list for PBXNativeTarget "BFS_BOJ" */ = {
+		75947F2326EE40A800C556EB /* Build configuration list for PBXNativeTarget "BFS-DFS_BOJ" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				75947F2426EE40A800C556EB /* Debug */,
