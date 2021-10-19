@@ -19,6 +19,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B429E7C1271DA7E700BF3BE7 /* 1149 RGB거리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1149 RGB거리.swift"; sourceTree = "<group>"; };
 		B442CF2A2718567E00B6F922 /* DP_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DP_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		B442CF2D2718567E00B6F922 /* 1463 1로 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1463 1로 만들기.swift"; sourceTree = "<group>"; };
 		B442CF34271873BC00B6F922 /* DP_BOJ-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DP_BOJ-Bridging-Header.h"; sourceTree = "<group>"; };
@@ -60,6 +61,7 @@
 				B442CF2D2718567E00B6F922 /* 1463 1로 만들기.swift */,
 				B442CF35271873BD00B6F922 /* 9095 1,2,3 더하기.swift */,
 				B442CF3727187F4E00B6F922 /* 2579 계단 오르기.swift */,
+				B429E7C1271DA7E700BF3BE7 /* 1149 RGB거리.swift */,
 			);
 			path = DP_BOJ;
 			sourceTree = "<group>";
