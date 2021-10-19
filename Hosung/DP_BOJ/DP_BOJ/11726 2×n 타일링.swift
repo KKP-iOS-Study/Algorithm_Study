@@ -11,9 +11,7 @@ var dp = [Int](repeating: 0, count: n+1)
 
 dp[1] = 1
 
-if n > 1 {
-    dp[2] = 2
-}
+if n > 1 { dp[2] = 2 }
 
 if n > 2 {
     for i in 3...n {
