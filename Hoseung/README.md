@@ -25,3 +25,4 @@
 - [#11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) [[풀이]](DP/DP/11659.swift)
 - [#12852 1로 만들기2](https://www.acmicpc.net/problem/12852) [[풀이]](DP/DP/12852.swift)
 - [#1003 피보나치 함수](https://www.acmicpc.net/problem/1003) [[풀이]](DP/DP/1003.swift)
+- [#1932 정수 삼각형](https://www.acmicpc.net/problem/1932) [[풀이]](DP/DP/1932.swift)
