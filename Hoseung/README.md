@@ -15,6 +15,7 @@
 - [#2146 다리만들기](https://www.acmicpc.net/problem/2146) [[풀이]](BFS_BOJ/BFS_BOJ/2146.swift)
 - [#2606 바이러스](https://www.acmicpc.net/problem/2606) [[풀이]](BFS_BOJ/BFS_BOJ/2606.swift)
 - [#10026 적록색약](https://www.acmicpc.net/problem/10026) [[풀이]](BFS_BOJ/BFS_BOJ/10026.swift)
+- [#5427 불](https://www.acmicpc.net/problem/5427) [[풀이]](BFS_BOJ/BFS_BOJ/5427.swift)
 
 ## DP
 - [#1463 1로 만들기](https://www.acmicpc.net/problem/1463) [[풀이]](DP/DP/1463.swift)
