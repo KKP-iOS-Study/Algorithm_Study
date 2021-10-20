@@ -11,7 +11,7 @@ KKP-iOS-Study : Algorithm Study
 
 */
 
-func getNextPoints(_ points: (r: Int, c: Int)) -> [(r: Int, c: Int)] {
+private func getNextPoints(_ points: (r: Int, c: Int)) -> [(r: Int, c: Int)] {
   [
     (points.r + 1, points.c),
     (points.r - 1, points.c),

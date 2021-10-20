@@ -14,6 +14,8 @@
 - [#2468 안전영역](https://www.acmicpc.net/problem/2468) [[풀이]](BFS_BOJ/BFS_BOJ/2468.swift)
 - [#2146 다리만들기](https://www.acmicpc.net/problem/2146) [[풀이]](BFS_BOJ/BFS_BOJ/2146.swift)
 - [#2606 바이러스](https://www.acmicpc.net/problem/2606) [[풀이]](BFS_BOJ/BFS_BOJ/2606.swift)
+- [#10026 적록색약](https://www.acmicpc.net/problem/10026) [[풀이]](BFS_BOJ/BFS_BOJ/10026.swift)
+- [#5427 불](https://www.acmicpc.net/problem/5427) [[풀이]](BFS_BOJ/BFS_BOJ/5427.swift)
 
 ## DP
 - [#1463 1로 만들기](https://www.acmicpc.net/problem/1463) [[풀이]](DP/DP/1463.swift)
@@ -23,3 +25,5 @@
 - [#11726 2xn 타일링](https://www.acmicpc.net/problem/11726) [[풀이]](DP/DP/11726.swift)
 - [#11659 구간 합 구하기 4](https://www.acmicpc.net/problem/11659) [[풀이]](DP/DP/11659.swift)
 - [#12852 1로 만들기2](https://www.acmicpc.net/problem/12852) [[풀이]](DP/DP/12852.swift)
+- [#1003 피보나치 함수](https://www.acmicpc.net/problem/1003) [[풀이]](DP/DP/1003.swift)
+- [#1932 정수 삼각형](https://www.acmicpc.net/problem/1932) [[풀이]](DP/DP/1932.swift)
