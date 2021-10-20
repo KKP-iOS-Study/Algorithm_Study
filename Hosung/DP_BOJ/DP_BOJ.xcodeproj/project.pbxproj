@@ -25,6 +25,7 @@
 		B442CF34271873BC00B6F922 /* DP_BOJ-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DP_BOJ-Bridging-Header.h"; sourceTree = "<group>"; };
 		B442CF35271873BD00B6F922 /* 9095 1,2,3 더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9095 1,2,3 더하기.swift"; sourceTree = "<group>"; };
 		B442CF3727187F4E00B6F922 /* 2579 계단 오르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2579 계단 오르기.swift"; sourceTree = "<group>"; };
+		B4468249271FF31800FD031E /* 11659 구간 합 구하기4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11659 구간 합 구하기4.swift"; sourceTree = "<group>"; };
 		B45E3F20271EA26D00C3A691 /* 11726 2×n 타일링.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11726 2×n 타일링.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,6 +65,7 @@
 				B442CF3727187F4E00B6F922 /* 2579 계단 오르기.swift */,
 				B429E7C1271DA7E700BF3BE7 /* 1149 RGB거리.swift */,
 				B45E3F20271EA26D00C3A691 /* 11726 2×n 타일링.swift */,
+				B4468249271FF31800FD031E /* 11659 구간 합 구하기4.swift */,
 			);
 			path = DP_BOJ;
 			sourceTree = "<group>";
