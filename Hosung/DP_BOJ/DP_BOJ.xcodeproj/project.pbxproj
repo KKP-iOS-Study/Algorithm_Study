@@ -26,6 +26,7 @@
 		B442CF35271873BD00B6F922 /* 9095 1,2,3 더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9095 1,2,3 더하기.swift"; sourceTree = "<group>"; };
 		B442CF3727187F4E00B6F922 /* 2579 계단 오르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2579 계단 오르기.swift"; sourceTree = "<group>"; };
 		B4468249271FF31800FD031E /* 11659 구간 합 구하기4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11659 구간 합 구하기4.swift"; sourceTree = "<group>"; };
+		B45C2EC52721A83600FB2EB2 /* 9461 파도반 수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9461 파도반 수열.swift"; sourceTree = "<group>"; };
 		B45E3F20271EA26D00C3A691 /* 11726 2×n 타일링.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11726 2×n 타일링.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -66,6 +67,7 @@
 				B429E7C1271DA7E700BF3BE7 /* 1149 RGB거리.swift */,
 				B45E3F20271EA26D00C3A691 /* 11726 2×n 타일링.swift */,
 				B4468249271FF31800FD031E /* 11659 구간 합 구하기4.swift */,
+				B45C2EC52721A83600FB2EB2 /* 9461 파도반 수열.swift */,
 			);
 			path = DP_BOJ;
 			sourceTree = "<group>";
