@@ -1,6 +1,6 @@
 //
 /*
-DP 파도반 수열 14501.swift
+DP 퇴사 14501.swift
 Created by: hoseung Lee on 2021/10/21
 https://www.acmicpc.net/problem/14501
 https://github.com/KKP-iOS-Study/Algorithm_Study

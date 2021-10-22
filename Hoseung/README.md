@@ -27,3 +27,5 @@
 - [#12852 1로 만들기2](https://www.acmicpc.net/problem/12852) [[풀이]](DP/DP/12852.swift)
 - [#1003 피보나치 함수](https://www.acmicpc.net/problem/1003) [[풀이]](DP/DP/1003.swift)
 - [#1932 정수 삼각형](https://www.acmicpc.net/problem/1932) [[풀이]](DP/DP/1932.swift)
+- [#9461 파도반 수열](https://www.acmicpc.net/problem/9461) [[풀이]](DP/DP/9461.swift)
+- [#14501 퇴사](https://www.acmicpc.net/problem/14501) [[풀이]](DP/DP/14501.swift)
