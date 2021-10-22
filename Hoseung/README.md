@@ -29,3 +29,4 @@
 - [#1932 정수 삼각형](https://www.acmicpc.net/problem/1932) [[풀이]](DP/DP/1932.swift)
 - [#9461 파도반 수열](https://www.acmicpc.net/problem/9461) [[풀이]](DP/DP/9461.swift)
 - [#14501 퇴사](https://www.acmicpc.net/problem/14501) [[풀이]](DP/DP/14501.swift)
+- [#10844 쉬운 계단 수](https://www.acmicpc.net/problem/10844) [[풀이]](DP/DP/10844.swift)
