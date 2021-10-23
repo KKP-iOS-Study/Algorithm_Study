@@ -4,9 +4,7 @@ BFS_BOJ 다리만들기 2146.swift
 Created by: hoseung Lee on 2021/10/12
 https://www.acmicpc.net/problem/2146
 https://github.com/KKP-iOS-Study/Algorithm_Study
-
 KKP-iOS-Study : Algorithm Study
-
 */
 
 private struct Point: Hashable {
