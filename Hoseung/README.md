@@ -33,3 +33,5 @@
 
 ## BS
 - [#1920 수 찾기](https://www.acmicpc.net/problem/1920) [[풀이]](Algorithms/BS/1920.swift)
+- [#18870 좌표 압축](https://www.acmicpc.net/problem/18870) [[풀이]](Algorithms/BS/18870.swift)
+- [#10816 숫자 카드 2](https://www.acmicpc.net/problem/10816) [[풀이]](Algorithms/BS/10816.swift), [풀이2](Algorithms/BS/10816_v2.swift)
