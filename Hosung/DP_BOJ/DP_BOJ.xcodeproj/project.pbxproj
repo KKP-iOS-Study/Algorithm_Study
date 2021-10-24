@@ -20,13 +20,16 @@
 
 /* Begin PBXFileReference section */
 		B429E7C1271DA7E700BF3BE7 /* 1149 RGB거리.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1149 RGB거리.swift"; sourceTree = "<group>"; };
+		B4339BFB2722859200324BC4 /* 10844 쉬운 계단 수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10844 쉬운 계단 수.swift"; sourceTree = "<group>"; };
 		B442CF2A2718567E00B6F922 /* DP_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = DP_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		B442CF2D2718567E00B6F922 /* 1463 1로 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1463 1로 만들기.swift"; sourceTree = "<group>"; };
 		B442CF34271873BC00B6F922 /* DP_BOJ-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "DP_BOJ-Bridging-Header.h"; sourceTree = "<group>"; };
 		B442CF35271873BD00B6F922 /* 9095 1,2,3 더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9095 1,2,3 더하기.swift"; sourceTree = "<group>"; };
 		B442CF3727187F4E00B6F922 /* 2579 계단 오르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2579 계단 오르기.swift"; sourceTree = "<group>"; };
 		B4468249271FF31800FD031E /* 11659 구간 합 구하기4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11659 구간 합 구하기4.swift"; sourceTree = "<group>"; };
+		B45C2EC52721A83600FB2EB2 /* 9461 파도반 수열.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9461 파도반 수열.swift"; sourceTree = "<group>"; };
 		B45E3F20271EA26D00C3A691 /* 11726 2×n 타일링.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11726 2×n 타일링.swift"; sourceTree = "<group>"; };
+		B4FBC2AC27258F2C007A4B79 /* 14501 퇴사.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "14501 퇴사.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,9 @@
 				B429E7C1271DA7E700BF3BE7 /* 1149 RGB거리.swift */,
 				B45E3F20271EA26D00C3A691 /* 11726 2×n 타일링.swift */,
 				B4468249271FF31800FD031E /* 11659 구간 합 구하기4.swift */,
+				B45C2EC52721A83600FB2EB2 /* 9461 파도반 수열.swift */,
+				B4339BFB2722859200324BC4 /* 10844 쉬운 계단 수.swift */,
+				B4FBC2AC27258F2C007A4B79 /* 14501 퇴사.swift */,
 			);
 			path = DP_BOJ;
 			sourceTree = "<group>";
