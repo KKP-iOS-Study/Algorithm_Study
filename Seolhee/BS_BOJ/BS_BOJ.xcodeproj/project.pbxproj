@@ -21,6 +21,7 @@
 /* Begin PBXFileReference section */
 		750151A62726AD7B00082EB4 /* BS_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BS_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		750151A92726AD7B00082EB4 /* 1920.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1920.swift; sourceTree = "<group>"; };
+		750151B02726CD0800082EB4 /* 10816.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10816.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +55,7 @@
 			isa = PBXGroup;
 			children = (
 				750151A92726AD7B00082EB4 /* 1920.swift */,
+				750151B02726CD0800082EB4 /* 10816.swift */,
 			);
 			path = BS_BOJ;
 			sourceTree = "<group>";
@@ -89,6 +91,7 @@
 				TargetAttributes = {
 					750151A52726AD7B00082EB4 = {
 						CreatedOnToolsVersion = 12.5;
+						LastSwiftMigration = 1250;
 					};
 				};
 			};
@@ -239,10 +242,17 @@
 		750151AE2726AD7B00082EB4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = C75XXHMKCL;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -250,9 +260,15 @@
 		750151AF2726AD7B00082EB4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = C75XXHMKCL;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 			};
