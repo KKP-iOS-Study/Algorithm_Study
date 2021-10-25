@@ -12,7 +12,7 @@ for _ in 0..<n { input.append(readLine()!.split(separator: " ").map({Int(String(
 
 var next = [Int](repeating: 0, count: n+1)
 for i in 0..<n { next[i] = i + input[i][0] } // 다음 상담 날짜
-print(next)
+
 var dp = [Int](repeating: 0, count: n+1)
 for i in 0..<n {
     
