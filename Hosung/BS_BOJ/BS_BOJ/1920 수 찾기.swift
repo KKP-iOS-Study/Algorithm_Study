@@ -6,13 +6,11 @@
 //
 
 let N = Int(readLine()!)!
-var nArr = [Int]()
-nArr = readLine()!.split(separator: " ").map{Int(String($0))!}
+var nArr = readLine()!.split(separator: " ").map{Int(String($0))!}
 nArr.sort()
 
 let M = Int(readLine()!)!
-var mArr = [Int]()
-mArr = readLine()!.split(separator: " ").map{Int(String($0))!}
+var mArr = readLine()!.split(separator: " ").map{Int(String($0))!}
 
 func bs(arr: [Int], num: Int) -> Int {
     var start = 0, end = N-1, mid = (start+end)/2
