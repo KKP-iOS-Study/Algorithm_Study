@@ -2,7 +2,7 @@
 //  main.swift
 //  BS_BOJ
 //
-//  Created by 강호성 on 2021/10/25.
+//  Created by 강호성 on 2021/10/26.
 //
 
 let N = Int(readLine()!)!
@@ -28,5 +28,4 @@ func bs(arr: [Int], num: Int) -> Int {
 for m in mArr {
     print(bs(arr: nArr, num: m))
 }
-
 

@@ -73,7 +73,6 @@ print(result.map{String($0)}.joined(separator: " "))
 //    return end
 //}
 
-
 //let N = Int(readLine()!)!
 //var nArr = readLine()!.split(separator: " ").map{Int(String($0))!}
 //nArr.sort()
