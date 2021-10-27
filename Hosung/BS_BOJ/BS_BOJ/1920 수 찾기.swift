@@ -28,4 +28,3 @@ func bs(arr: [Int], num: Int) -> Int {
 for m in mArr {
     print(bs(arr: nArr, num: m))
 }
-

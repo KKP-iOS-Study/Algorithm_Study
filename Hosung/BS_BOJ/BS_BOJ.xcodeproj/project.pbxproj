@@ -19,10 +19,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		B42AFEE72729419900E7E826 /* 18870 좌표 압축.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "18870 좌표 압축.swift"; sourceTree = "<group>"; };
+		B42AFEE927294B0D00E7E826 /* 1654 랜선 자르기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1654 랜선 자르기.swift"; sourceTree = "<group>"; };
 		B42C41FF2727F6C600FEF16D /* BS_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BS_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
-		B42C42022727F6C600FEF16D /* 10816 숫자 카드2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816 숫자 카드2.swift"; sourceTree = "<group>"; };
 		B42C42092727F6ED00FEF16D /* BS_BOJ-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BS_BOJ-Bridging-Header.h"; sourceTree = "<group>"; };
-		B42C420A2727F6ED00FEF16D /* 1920 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1920 수 찾기.swift"; sourceTree = "<group>"; };
+		B42C42102727F87D00FEF16D /* 10816 숫자 카드2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816 숫자 카드2.swift"; sourceTree = "<group>"; };
+		B4E403882727F8D4008B2A35 /* 1920 수 찾기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1920 수 찾기.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,8 +58,10 @@
 			isa = PBXGroup;
 			children = (
 				B42C42092727F6ED00FEF16D /* BS_BOJ-Bridging-Header.h */,
-				B42C42022727F6C600FEF16D /* 10816 숫자 카드2.swift */,
-				B42C420A2727F6ED00FEF16D /* 1920 수 찾기.swift */,
+				B42C42102727F87D00FEF16D /* 10816 숫자 카드2.swift */,
+				B4E403882727F8D4008B2A35 /* 1920 수 찾기.swift */,
+				B42AFEE72729419900E7E826 /* 18870 좌표 압축.swift */,
+				B42AFEE927294B0D00E7E826 /* 1654 랜선 자르기.swift */,
 			);
 			path = BS_BOJ;
 			sourceTree = "<group>";
