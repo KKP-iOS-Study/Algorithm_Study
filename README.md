@@ -30,6 +30,8 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 | 13 | 10.17 | DP 문제 풀이 및 피드백 | [1463](https://www.acmicpc.net/problem/1463), [9095](https://www.acmicpc.net/problem/9095), [2579](https://www.acmicpc.net/problem/2579) |
 | 14 | 10.20 | DP 문제 풀이 및 피드백 | [1149](https://www.acmicpc.net/problem/1149), [11726](https://www.acmicpc.net/problem/11726), [11659](https://www.acmicpc.net/problem/11659) |
 | 15 | 10.22 | DP 문제 풀이 및 피드백 | [9461](https://www.acmicpc.net/problem/9461), [14501](https://www.acmicpc.net/problem/14501), [10844](https://www.acmicpc.net/problem/10844) |
+| 16 | 10.26 | BS 문제 풀이 및 피드백 | [1920](https://www.acmicpc.net/problem/1920), [10816](https://www.acmicpc.net/problem/10816), [18870](https://www.acmicpc.net/problem/18870) |
+| 17 | 10.28 | BS 문제 풀이 및 피드백 | [2295](https://www.acmicpc.net/problem/2295), [1654](https://www.acmicpc.net/problem/1654) |
 
 <br/>
 
