@@ -6,6 +6,10 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		755EC2CD27302D4900B0A365 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 755EC2CC27302D4900B0A365 /* main.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXCopyFilesBuildPhase section */
 		750151A42726AD7B00082EB4 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -27,6 +31,7 @@
 		7548E4862728518300D818B1 /* 2295.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2295.swift; sourceTree = "<group>"; };
 		7548E48827293CB300D818B1 /* 1654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1654.swift; sourceTree = "<group>"; };
 		755EC2CA272FE71200B0A365 /* 1822.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1822.swift; sourceTree = "<group>"; };
+		755EC2CC27302D4900B0A365 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +71,7 @@
 				7548E4862728518300D818B1 /* 2295.swift */,
 				7548E48827293CB300D818B1 /* 1654.swift */,
 				755EC2CA272FE71200B0A365 /* 1822.swift */,
+				755EC2CC27302D4900B0A365 /* main.swift */,
 			);
 			path = BS_BOJ;
 			sourceTree = "<group>";
@@ -128,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				755EC2CD27302D4900B0A365 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
