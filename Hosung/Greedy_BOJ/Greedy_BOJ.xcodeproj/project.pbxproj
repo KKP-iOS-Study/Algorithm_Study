@@ -34,8 +34,8 @@
 		B48FAE5626CD02D200429D04 /* 11399 ATM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11399 ATM.swift"; sourceTree = "<group>"; };
 		B4AB9BFB26CA5C3800B39556 /* Greedy_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Greedy_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
 		B4AB9BFE26CA5C3800B39556 /* 11047 동전 0.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "11047 동전 0.swift"; sourceTree = "<group>"; };
-		B4AB9C0526CA68C700B39556 /* Greedy-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Greedy-Bridging-Header.h"; sourceTree = "<group>"; };
 		B4AB9C0626CA68C800B39556 /* 1931 회의실 배정.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1931 회의실 배정.swift"; sourceTree = "<group>"; };
+		B4EBB61A273798D7008C5EA6 /* 1700 멀티탭 스케줄링.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1700 멀티탭 스케줄링.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,7 +68,6 @@
 		B4AB9BFD26CA5C3800B39556 /* Greedy_BOJ */ = {
 			isa = PBXGroup;
 			children = (
-				B4AB9C0526CA68C700B39556 /* Greedy-Bridging-Header.h */,
 				B4AB9BFE26CA5C3800B39556 /* 11047 동전 0.swift */,
 				B4AB9C0626CA68C800B39556 /* 1931 회의실 배정.swift */,
 				B48FAE5026CCEDAE00429D04 /* 1541 잃어버린 괄호.swift */,
@@ -84,6 +83,7 @@
 				B413E1BB26D7522500C47B77 /* 11000 강의실 배정(시간초과).swift */,
 				B40BDB0D26DE1C280060435B /* 7570 줄 세우기.swift */,
 				B42677F326E0AEC30060BF4B /* 8980 택배.swift */,
+				B4EBB61A273798D7008C5EA6 /* 1700 멀티탭 스케줄링.swift */,
 			);
 			path = Greedy_BOJ;
 			sourceTree = "<group>";
@@ -282,7 +282,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Greedy/Greedy-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "Greedy_BOJ/Greedy_BOJ-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
@@ -303,7 +303,7 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_OBJC_BRIDGING_HEADER = "Greedy/Greedy-Bridging-Header.h";
+				SWIFT_OBJC_BRIDGING_HEADER = "Greedy_BOJ/Greedy_BOJ-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
