@@ -1,8 +1,8 @@
 //
 //  main.swift
-//  Greedy_BOJ
+//  Greedy_boj
 //
-//  Created by 강호성 on 2021/11/07.
+//  Created by 강호성 on 2021/11/08.
 //
 
 let NK = readLine()!.split(separator: " ").map{Int(String($0))!}
@@ -42,3 +42,4 @@ for i in 0..<NK[1] {
 }
 
 print(cnt)
+
