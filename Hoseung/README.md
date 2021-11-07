@@ -41,3 +41,6 @@
 - [#16401 과자 나눠주기](https://www.acmicpc.net/problem/16401)  [[풀이]](Algorithms/BS/16401.swift)
 - [#2805 나무 자르기](https://www.acmicpc.net/problem/2805)  [[풀이]](Algorithms/BS/2805.swift)
 - [#18869 멀티버스 ll](https://www.acmicpc.net/problem/18869)  [[풀이]](Algorithms/BS/18869.swift)
+
+## Greedy
+- [#1700 멀티탭 스캐줄링](https://www.acmicpc.net/problem/1700)  [[풀이]](Algorithms/Greedy/1700.swift)
