@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		B41C20FE275518B1009744EC /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = B41C20FD275518B1009744EC /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		B41C20F8275518B1009744EC /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,7 +20,10 @@
 
 /* Begin PBXFileReference section */
 		B41C20FA275518B1009744EC /* Greedy2_BOJ */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Greedy2_BOJ; sourceTree = BUILT_PRODUCTS_DIR; };
-		B41C20FD275518B1009744EC /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		B41C20FD275518B1009744EC /* 10610 30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10610 30.swift"; sourceTree = "<group>"; };
+		B41C213427564B0E009744EC /* Greedy2_BOJ-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Greedy2_BOJ-Bridging-Header.h"; sourceTree = "<group>"; };
+		B41C213527564B0F009744EC /* 13305 주유소.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13305 주유소.swift"; sourceTree = "<group>"; };
+		B41C213927566685009744EC /* 1946 신입사원(시간 초과).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1946 신입사원(시간 초과).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +56,10 @@
 		B41C20FC275518B1009744EC /* Greedy2_BOJ */ = {
 			isa = PBXGroup;
 			children = (
-				B41C20FD275518B1009744EC /* main.swift */,
+				B41C213427564B0E009744EC /* Greedy2_BOJ-Bridging-Header.h */,
+				B41C20FD275518B1009744EC /* 10610 30.swift */,
+				B41C213527564B0F009744EC /* 13305 주유소.swift */,
+				B41C213927566685009744EC /* 1946 신입사원(시간 초과).swift */,
 			);
 			path = Greedy2_BOJ;
 			sourceTree = "<group>";
@@ -94,6 +96,7 @@
 				TargetAttributes = {
 					B41C20F9275518B1009744EC = {
 						CreatedOnToolsVersion = 13.0;
+						LastSwiftMigration = 1300;
 					};
 				};
 			};
@@ -120,7 +123,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B41C20FE275518B1009744EC /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,10 +247,18 @@
 		B41C2102275518B1009744EC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS89TXQ5T;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Greedy2_BOJ/Greedy2_BOJ-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -256,10 +266,17 @@
 		B41C2103275518B1009744EC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS89TXQ5T;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Greedy2_BOJ/Greedy2_BOJ-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
