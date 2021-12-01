@@ -23,6 +23,7 @@
 		B41C20FD275518B1009744EC /* 10610 30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10610 30.swift"; sourceTree = "<group>"; };
 		B41C213427564B0E009744EC /* Greedy2_BOJ-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Greedy2_BOJ-Bridging-Header.h"; sourceTree = "<group>"; };
 		B41C213527564B0F009744EC /* 13305 주유소.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "13305 주유소.swift"; sourceTree = "<group>"; };
+		B41C213927566685009744EC /* 1946 신입사원(시간 초과).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1946 신입사원(시간 초과).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				B41C213427564B0E009744EC /* Greedy2_BOJ-Bridging-Header.h */,
 				B41C20FD275518B1009744EC /* 10610 30.swift */,
 				B41C213527564B0F009744EC /* 13305 주유소.swift */,
+				B41C213927566685009744EC /* 1946 신입사원(시간 초과).swift */,
 			);
 			path = Greedy2_BOJ;
 			sourceTree = "<group>";
