@@ -47,3 +47,6 @@
 
 ## BruteForce
 - [#1107 리모컨](https://www.acmicpc.net/problem/1107)  [[풀이]](Algorithms/Class3/1107.swift)
+
+## LinkedList
+= [#5430 AC](https://www.acmicpc.net/problem/5430)  [[풀이]](Algorithms/Class3/5430.swift)
