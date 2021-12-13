@@ -21,6 +21,8 @@
 /* Begin PBXFileReference section */
 		B41C2165275C989D009744EC /* Solved_Class3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Solved_Class3; sourceTree = BUILT_PRODUCTS_DIR; };
 		B41C2168275C989D009744EC /* 1107 리모컨.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1107 리모컨.swift"; sourceTree = "<group>"; };
+		B41C21E02760E3A5009744EC /* Solved_Class3-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Solved_Class3-Bridging-Header.h"; sourceTree = "<group>"; };
+		B41C21E12760E3A6009744EC /* 5430 AC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5430 AC.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,7 +55,9 @@
 		B41C2167275C989D009744EC /* Solved_Class3 */ = {
 			isa = PBXGroup;
 			children = (
+				B41C21E02760E3A5009744EC /* Solved_Class3-Bridging-Header.h */,
 				B41C2168275C989D009744EC /* 1107 리모컨.swift */,
+				B41C21E12760E3A6009744EC /* 5430 AC.swift */,
 			);
 			path = Solved_Class3;
 			sourceTree = "<group>";
@@ -90,6 +94,7 @@
 				TargetAttributes = {
 					B41C2164275C989D009744EC = {
 						CreatedOnToolsVersion = 13.0;
+						LastSwiftMigration = 1300;
 					};
 				};
 			};
@@ -240,10 +245,18 @@
 		B41C216D275C989D009744EC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS89TXQ5T;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Solved_Class3/Solved_Class3-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -251,10 +264,17 @@
 		B41C216E275C989D009744EC /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 7MS89TXQ5T;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Solved_Class3/Solved_Class3-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
