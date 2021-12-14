@@ -32,32 +32,13 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 | 15 | 10.22 | DP 문제 풀이 및 피드백 | [9461](https://www.acmicpc.net/problem/9461), [14501](https://www.acmicpc.net/problem/14501), [10844](https://www.acmicpc.net/problem/10844) |
 | 16 | 10.26 | BS 문제 풀이 및 피드백 | [1920](https://www.acmicpc.net/problem/1920), [10816](https://www.acmicpc.net/problem/10816), [18870](https://www.acmicpc.net/problem/18870) |
 | 17 | 10.28 | BS 문제 풀이 및 피드백 | [2295](https://www.acmicpc.net/problem/2295), [1654](https://www.acmicpc.net/problem/1654) |
+| 18 | 12.08 | BruteForce 문제 풀이 및 피드백 | [1107](https://www.acmicpc.net/problem/1107) |
+| 19 | 12.15 | Deque 문제 풀이 및 피드백 | [5430](https://www.acmicpc.net/problem/5430) |
 
 <br/>
 
 ## 📋 커리큘럼
-| 번호 | 주제 |
-| :--: | :--: |
-| 01 | [배열](workbook/0x03.md) |
-| 02 | [연결 리스트](workbook/0x04.md) |
-| 03 | [스택](workbook/0x05.md) |
-| 04 | [스택의 활용(수식의 괄호 쌍)](workbook/0x08.md) |
-| 05 | [큐](workbook/0x06.md) |
-| 06 | [그리디](workbook/0x11.md) |
-| 07 | [BFS](workbook/0x09.md) |
-| 08 | DFS |
-| 09 | [덱](workbook/0x07.md) |
-| 10 | [재귀](workbook/0x0B.md) |
-| 11 | [백트래킹](workbook/0x0C.md) |
-| 12 | [시뮬레이션](workbook/0x0D.md) |
-| 13 | [정렬 I](workbook/0x0E.md) |
-| 14 | [정렬 II](workbook/0x0F.md) |
-| 15 | [다이나믹 프로그래밍](workbook/0x10.md) |
-| 16 | [수학](workbook/0x12.md) |
-| 17 | [이분탐색](workbook/0x13.md) |
-| 18 | [투 포인터](workbook/0x14.md) |
-| 19 | [해시](workbook/0x15.md) |
 
--> [바킹독의 실전 알고리즘 강의 자료](https://github.com/encrypted-def/basic-algo-lecture) 를 참고합니다. 📎
+📍 [바킹독의 실전 알고리즘 강의 자료](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md)
 
--> [문제집 링크](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook.md) 📎
+📍 [solved.ac](https://solved.ac/)
