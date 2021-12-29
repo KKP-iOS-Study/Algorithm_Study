@@ -23,6 +23,7 @@
 		B41C2168275C989D009744EC /* 1107 리모컨.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1107 리모컨.swift"; sourceTree = "<group>"; };
 		B41C21E02760E3A5009744EC /* Solved_Class3-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Solved_Class3-Bridging-Header.h"; sourceTree = "<group>"; };
 		B41C21E12760E3A6009744EC /* 5430 AC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "5430 AC.swift"; sourceTree = "<group>"; };
+		B42E0BFC277A081100536531 /* 9019 DSLR.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "9019 DSLR.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				B41C21E02760E3A5009744EC /* Solved_Class3-Bridging-Header.h */,
 				B41C2168275C989D009744EC /* 1107 리모컨.swift */,
 				B41C21E12760E3A6009744EC /* 5430 AC.swift */,
+				B42E0BFC277A081100536531 /* 9019 DSLR.swift */,
 			);
 			path = Solved_Class3;
 			sourceTree = "<group>";
