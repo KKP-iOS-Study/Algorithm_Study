@@ -8,14 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		8A16965F2732F1C9008A90B8 /* 1822.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A16965E2732F1C9008A90B8 /* 1822.swift */; };
+		8A3129BA278EF72E0065D363 /* 14500.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3129B9278EF72E0065D363 /* 14500.swift */; };
+		8A3129BE278EF8C50065D363 /* boj14500.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8A3129BC278EF8C50065D363 /* boj14500.cpp */; };
 		8A31DDD42724746800D96EE3 /* 10816.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A31DDD32724744700D96EE3 /* 10816.swift */; };
 		8A3BCFEA2717BC7A0043BD3E /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A3BCFE92717BC7A0043BD3E /* main.swift */; };
-		8A415127277C61D7004EE7E1 /* 9019.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A415126277C61D7004EE7E1 /* 9019.swift */; };
 		8A6654AD277DEE020091FA52 /* 9019.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A6654AC277DEE020091FA52 /* 9019.swift */; };
 		8A873353277CDA0800EC8D70 /* boj11826.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A873352277CDA0800EC8D70 /* boj11826.swift */; };
 		8AA4C7212760D88100F515E3 /* 1107.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA4C7202760D88100F515E3 /* 1107.swift */; };
 		8AA4C7232760D99300F515E3 /* 5430.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA4C7222760D99300F515E3 /* 5430.swift */; };
 		8AA4C7252760D9D900F515E3 /* 2206.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA4C7242760D9D900F515E3 /* 2206.swift */; };
+		8AA86B4A277F316B00E82EA6 /* 14500.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AA86B49277F316B00E82EA6 /* 14500.swift */; };
 		8AB5A2A9272AA66C00DB04CA /* 2295_2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5A2A8272AA66C00DB04CA /* 2295_2.swift */; };
 		8AB5A2AB272AB59500DB04CA /* 2295_1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5A2AA272AB59500DB04CA /* 2295_1.swift */; };
 		8AB5A2AD272ABDF700DB04CA /* 1654.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AB5A2AC272ABDF700DB04CA /* 1654.swift */; };
@@ -76,13 +78,16 @@
 		8A298BEC271B1A00001AD94A /* 12852.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12852.swift; sourceTree = "<group>"; };
 		8A298BF0271B4784001AD94A /* 12852TopDown.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 12852TopDown.swift; sourceTree = "<group>"; };
 		8A2D59552722D34100F16E4B /* 10844.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10844.swift; sourceTree = "<group>"; };
+		8A3129B9278EF72E0065D363 /* 14500.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 14500.swift; sourceTree = "<group>"; };
+		8A3129BB278EF8C50065D363 /* Algorithms-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Algorithms-Bridging-Header.h"; sourceTree = "<group>"; };
+		8A3129BC278EF8C50065D363 /* boj14500.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj14500.cpp; sourceTree = "<group>"; };
+		8A3129BD278EF8C50065D363 /* boj14500.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = boj14500.hpp; sourceTree = "<group>"; };
 		8A31DDD32724744700D96EE3 /* 10816.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 10816.swift; sourceTree = "<group>"; };
 		8A3BCFE62717BC7A0043BD3E /* Algorithms */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Algorithms; sourceTree = BUILT_PRODUCTS_DIR; };
 		8A3BCFE92717BC7A0043BD3E /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		8A3BCFF02717BD620043BD3E /* 9095.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9095.swift; sourceTree = "<group>"; };
 		8A3BCFF22717C4F90043BD3E /* 1463.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1463.swift; sourceTree = "<group>"; };
 		8A3BCFF42717D09E0043BD3E /* 2579.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2579.swift; sourceTree = "<group>"; };
-		8A415126277C61D7004EE7E1 /* 9019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9019.swift; sourceTree = "<group>"; };
 		8A613AC0271FB364002080CC /* 1932.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1932.swift; sourceTree = "<group>"; };
 		8A6654AC277DEE020091FA52 /* 9019.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 9019.swift; sourceTree = "<group>"; };
 		8A873352277CDA0800EC8D70 /* boj11826.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = boj11826.swift; sourceTree = "<group>"; };
@@ -91,6 +96,7 @@
 		8AA4C7202760D88100F515E3 /* 1107.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1107.swift; sourceTree = "<group>"; };
 		8AA4C7222760D99300F515E3 /* 5430.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 5430.swift; sourceTree = "<group>"; };
 		8AA4C7242760D9D900F515E3 /* 2206.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2206.swift; sourceTree = "<group>"; };
+		8AA86B49277F316B00E82EA6 /* 14500.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 14500.swift; sourceTree = "<group>"; };
 		8AB5A2A8272AA66C00DB04CA /* 2295_2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2295_2.swift; sourceTree = "<group>"; };
 		8AB5A2AA272AB59500DB04CA /* 2295_1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2295_1.swift; sourceTree = "<group>"; };
 		8AB5A2AC272ABDF700DB04CA /* 1654.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1654.swift; sourceTree = "<group>"; };
@@ -182,7 +188,7 @@
 				8AA4C7202760D88100F515E3 /* 1107.swift */,
 				8AA4C7222760D99300F515E3 /* 5430.swift */,
 				8AC3FAA9276B6F64004303D8 /* 7662_programmers.swift */,
-				8A415126277C61D7004EE7E1 /* 9019.swift */,
+				8AA86B49277F316B00E82EA6 /* 14500.swift */,
 			);
 			path = Class3;
 			sourceTree = "<group>";
@@ -223,6 +229,7 @@
 				8AE1218427246E7D0044C1FF /* BS */,
 				8A3BCFE82717BC7A0043BD3E /* DP */,
 				8AE121CF272472330044C1FF /* BFS */,
+				8A3129BB278EF8C50065D363 /* Algorithms-Bridging-Header.h */,
 			);
 			path = Algorithms;
 			sourceTree = "<group>";
@@ -230,6 +237,8 @@
 		8AE121CF272472330044C1FF /* BFS */ = {
 			isa = PBXGroup;
 			children = (
+				8A3129BC278EF8C50065D363 /* boj14500.cpp */,
+				8A3129BD278EF8C50065D363 /* boj14500.hpp */,
 				8AE121B3272472210044C1FF /* 1012.swift */,
 				8AE121BF272472220044C1FF /* 1697.swift */,
 				8AE121B9272472220044C1FF /* 1926.swift */,
@@ -247,6 +256,7 @@
 				8AE121D2272472AD0044C1FF /* 2146.swift */,
 				8AA4C7242760D9D900F515E3 /* 2206.swift */,
 				8A6654AC277DEE020091FA52 /* 9019.swift */,
+				8A3129B9278EF72E0065D363 /* 14500.swift */,
 			);
 			path = BFS;
 			sourceTree = "<group>";
@@ -267,6 +277,8 @@
 			dependencies = (
 			);
 			name = Algorithms;
+			packageProductDependencies = (
+			);
 			productName = DP;
 			productReference = 8A3BCFE62717BC7A0043BD3E /* Algorithms */;
 			productType = "com.apple.product-type.tool";
@@ -283,6 +295,7 @@
 				TargetAttributes = {
 					8A3BCFE52717BC7A0043BD3E = {
 						CreatedOnToolsVersion = 13.0;
+						LastSwiftMigration = 1320;
 					};
 				};
 			};
@@ -295,6 +308,8 @@
 				Base,
 			);
 			mainGroup = 8A3BCFDD2717BC7A0043BD3E;
+			packageReferences = (
+			);
 			productRefGroup = 8A3BCFE72717BC7A0043BD3E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -350,12 +365,14 @@
 				8AB5A2AB272AB59500DB04CA /* 2295_1.swift in Sources */,
 				8AE121892724716A0044C1FF /* 12852.swift in Sources */,
 				8A6654AD277DEE020091FA52 /* 9019.swift in Sources */,
+				8A3129BA278EF72E0065D363 /* 14500.swift in Sources */,
+				8AA86B4A277F316B00E82EA6 /* 14500.swift in Sources */,
 				8AA4C7212760D88100F515E3 /* 1107.swift in Sources */,
 				8AE121C6272472220044C1FF /* 7562.swift in Sources */,
 				8AE12193272471750044C1FF /* 11726.swift in Sources */,
 				8AE12194272471750044C1FF /* 1149.swift in Sources */,
 				8A31DDD42724746800D96EE3 /* 10816.swift in Sources */,
-				8A415127277C61D7004EE7E1 /* 9019.swift in Sources */,
+				8A3129BE278EF8C50065D363 /* boj14500.cpp in Sources */,
 				8AE1218A272471750044C1FF /* 1463.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -481,10 +498,18 @@
 		8A3BCFEE2717BC7A0043BD3E /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = XJXA3BQDMJ;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Algorithms/Algorithms-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -492,10 +517,17 @@
 		8A3BCFEF2717BC7A0043BD3E /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = XJXA3BQDMJ;
 				ENABLE_HARDENED_RUNTIME = YES;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+					"@loader_path/../Frameworks",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "Algorithms/Algorithms-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
