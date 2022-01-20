@@ -15,6 +15,7 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 
 | 회차 | 날짜 | 내용 | 문제 (BOJ) |
 | :--: | :--: | :--: | :--: |
+| 2021년 |
 | 01 | 07.28 | 배열 문제 풀이 피드백 | [11328](https://www.acmicpc.net/problem/11328), [10808](https://www.acmicpc.net/problem/10808), [10807](https://www.acmicpc.net/problem/10807), [2577](https://www.acmicpc.net/problem/2577), [13300](https://www.acmicpc.net/problem/13300), [1475](https://www.acmicpc.net/problem/1475), [1919](https://www.acmicpc.net/problem/1919), [3273](https://www.acmicpc.net/problem/3273) |
 | 02 | 07.30 | 연결리스트 문제 풀이 피드백 | [1406](https://www.acmicpc.net/problem/1406), [5397](https://www.acmicpc.net/problem/5397), [1158](https://www.acmicpc.net/problem/1158) |
 | 03 | 08.06 | 스택 문제 풀이 피드백 | [10828](https://www.acmicpc.net/problem/10828), [10773](https://www.acmicpc.net/problem/10773), [1874](https://www.acmicpc.net/problem/1874), [2493](https://www.acmicpc.net/problem/2493), [6198](https://www.acmicpc.net/problem/6198) |
@@ -36,6 +37,9 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 | 19 | 12.15 | Deque 문제 풀이 및 피드백 | [5430](https://www.acmicpc.net/problem/5430) |
 | 20 | 12.22 | Heap 문제 풀이 및 피드백 | [7662](https://www.acmicpc.net/problem/7662) |
 | 21 | 12.29 | BFS 문제 풀이 및 피드백 | [9019](https://www.acmicpc.net/problem/9019) |
+| 2022년 |
+| 22 | 01.21 | BruteForce 문제 풀이 및 피드백 | [14500](https://www.acmicpc.net/problem/14500) |
+
 
 <br/>
 
