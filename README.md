@@ -39,6 +39,7 @@ swift로 공부하는 알고리즘 👩🏻‍💻🧑🏻‍💻
 | 21 | 12.29 | BFS 문제 풀이 및 피드백 | [9019](https://www.acmicpc.net/problem/9019) |
 | 2022년 |
 | 22 | 01.21 | BruteForce 문제 풀이 및 피드백 | [14500](https://www.acmicpc.net/problem/14500) |
+| 23 | 01.26 | BFS/DFS 문제 풀이 및 피드백 | [16236](https://www.acmicpc.net/problem/16236) |
 
 
 <br/>
